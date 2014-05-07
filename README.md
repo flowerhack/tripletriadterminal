@@ -18,3 +18,5 @@ So far, all it does is let you play against a very dumb computer opponent.  Futu
 - edit out the hardcoded 3x3 stuff, allow arbitrary board size
 - make cards.txt an arg, make it a default rather than hardcoded in
 - better turn handling
+- more cards
+- let you choose cards
